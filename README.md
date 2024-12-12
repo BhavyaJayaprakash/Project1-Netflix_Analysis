@@ -5,7 +5,6 @@ Project details
 Topic: Netflix User Data
 DataSet:
 https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset ,
-https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores
 
 Questions:
 Do user prefer tv or movies?(Bhavya) 
