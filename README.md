@@ -7,6 +7,8 @@ DataSet:
 https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset ,
 
 Questions:
-Do user prefer tv or movies?(Bhavya) 
-What tier do they use?(James) 
-Does netflix see a growth in users when new content is released?(Atziri)
+
+What is the mix of TC shows vs Movie between Netflix and Hulu
+  -  Part 2- what is the distribution of rating of movies between Netflix and Hulu(Bhavya) 
+Are basic, premium, standard users concentrated more in certain areas of the world?(James) 
+How are our users primarily watching netflix and is that different based on region or gender?(Atziri)
