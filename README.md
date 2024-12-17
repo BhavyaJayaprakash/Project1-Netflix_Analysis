@@ -31,5 +31,8 @@ Hulu, on the other hand, excels in its offering of TV shows, making it an ideal 
 These findings highlight the strengths of each platform that can guide users in selecting the service that aligns with their preferences.
 
 
+QUestion 2 : How are our users primarily watching netflix and is that different based on region or age group?
+
+QUestion 3 : Are basic, premium, standard users concentrated more in certain areas of the world?
 
 
