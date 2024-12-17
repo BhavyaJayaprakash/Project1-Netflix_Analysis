@@ -21,7 +21,7 @@ Question 1
 Part 1 - what is the mix of TC shows vs Movie between Netflix and Hulu
 Part 2- what is the distribution of rating of movies between Netflix and Hulu
 
-Statistical Analysis
+Statistical Analysis:
 If one could only choose one streaming service, what would it be? What content is Netflix focusing on vs Hulu ? It's hard to determine which streaming service is truly "better" because that will greatly depend on an individual's personal preferences. But in this era of digital entertainment, streaming platforms have revolutionized how we consume media. Among the leading players, Netflix and Hulu have emerged as prominent services with diverse content libraries. However, their offerings differ significantly in terms of type of content, genres , rating etc. This analysis project aims to provide an in-depth comparison of the content between Netflix and Hulu by visualizing their catalog data. this would help users understand the content dynamics while showcasing data analysis and visualization techniques.
 
 Conclusion:
