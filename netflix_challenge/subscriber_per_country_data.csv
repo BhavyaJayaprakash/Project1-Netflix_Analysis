@@ -1,0 +1,28 @@
+Country,Subscription Type,count
+Australia,Premium,101
+Australia,Standard,51
+Australia,Basic,31
+Brazil,Basic,146
+Brazil,Premium,33
+Brazil,Standard,4
+Canada,Basic,145
+Canada,Premium,88
+Canada,Standard,84
+France,Premium,147
+France,Basic,36
+Germany,Basic,149
+Germany,Standard,31
+Germany,Premium,3
+Italy,Basic,176
+Italy,Premium,4
+Italy,Standard,3
+Mexico,Standard,179
+Mexico,Basic,4
+Spain,Premium,212
+Spain,Standard,129
+Spain,Basic,110
+United Kingdom,Standard,180
+United Kingdom,Basic,3
+United States,Basic,199
+United States,Premium,145
+United States,Standard,107
