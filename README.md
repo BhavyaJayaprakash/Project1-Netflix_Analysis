@@ -58,60 +58,59 @@ It does seem like our users have a strong preference for mobile devices rather t
 
 
 
-QUestion 3 : Are basic, premium, standard users concentrated more in certain areas of the world?
-Question 2: How are our users primarily watching netflix and is that different based on region or age group?
+Question 3 : Are basic, premium, standard users concentrated more in certain areas of the world?
 
-Analysis: 
-
-![subscription_distribution_by_region](https://github.com/user-attachments/assets/af78d689-7645-4a56-a179-5bd47a78053d)
-![subscription_percentage_by_region](https://github.com/user-attachments/assets/a63107b9-2223-4286-8d51-7cd1ce6eeb0c)
-
- 1. Distribution of Subscription Types (Bar Chart):
-   - Australia:
-     - Basic: 31 (16.9%)
-     - Premium: 101 (55.2%)
-     - Standard: 51 (27.9%)
-     - Total: 183 subscriptions
-   - EU:
-     - Basic: 474 (40.1%)
-     - Premium: 366 (30.9%)
-     - Standard: 343 (29.0%)
-     - Total: 1,183 subscriptions
-   - North America:
-     - Basic: 348 (36.6%)
-     - Premium: 233 (24.5%)
-     - Standard: 370 (38.9%)
-     - Total: 951 subscriptions
-   - South America:
-     - Basic: 146 (79.8%)
-     - Premium: 33 (18.0%)
-     - Standard: 3 (2.2%)
-     - Total: 182 subscriptions
-
-2. Regional Highlights:
-   - Basic Subscriptions:
-     - Dominant in South America (79.8%) and significant in the EU (40.1%) and North America (36.6%).
-     - Least prominent in Australia (16.9%).
-   - Premium Subscriptions:
-     - Most prominent in Australia (55.2%) and holds a moderate share in the EU (30.9%).
-     - Lowest presence in South America (18.0%).
-   - Standard Subscriptions:
-     - Leading in North America (38.9%) and holds a moderate share in the EU (29.0%).
-     - Minimal in South America (2.2%).
-
-3. Insights from Pie Charts
-   - The pie charts confirm regional preferences:
-     - South America is heavily skewed towards Basic subscriptions, with negligible Standard users.
-     - Australia is Premium-focused, with Premium subscriptions constituting over half.
-     - North America and the EU show a more balanced distribution, with Basic and Standard competing closely.
-   - Standard subscriptions are negligible in South America and relatively low in Australia.
-
-4. Comparative Observations:
-   - Most Balanced Distribution: North America, where Basic and Standard are almost equal, and Premium lags slightly.
-   - Most Polarized Regions: South America (Basic-centric) and Australia (Premium-centric).
-
-Conclusion: 
-The statistical analysis reveals distinct regional preferences for subscription types. In South America, Basic subscriptions dominate with 79.8%, while Standard subscriptions are insignificant at 2.2%. In contrast, Australia is heavily Premium-focused, with 55.2% of subscriptions in this category, and Basic subscriptions make up only 16.9%. The EU and North America show more balanced distributions, with the EU leaning more towards Basic subscriptions (40.1%) and North America having nearly equal shares of Basic (36.6%) and Standard (38.9%). Premium subscriptions are prominent in Australia and somewhat present in the EU but have less influence in North and South America. These patterns suggest cultural or economic factors influencing subscription preferences, with South America being the most Basic-centric and Australia the most Premium-focused, while the EU and North America display more varied choices. This data reveals significant variations in subscription preferences across regions, reflecting possible cultural or economic factors influencing user choices.
+  Analysis: 
+  
+  ![subscription_distribution_by_region](https://github.com/user-attachments/assets/af78d689-7645-4a56-a179-5bd47a78053d)
+  ![subscription_percentage_by_region](https://github.com/user-attachments/assets/a63107b9-2223-4286-8d51-7cd1ce6eeb0c)
+  
+   1. Distribution of Subscription Types (Bar Chart):
+     - Australia:
+       - Basic: 31 (16.9%)
+       - Premium: 101 (55.2%)
+       - Standard: 51 (27.9%)
+       - Total: 183 subscriptions
+     - EU:
+       - Basic: 474 (40.1%)
+       - Premium: 366 (30.9%)
+       - Standard: 343 (29.0%)
+       - Total: 1,183 subscriptions
+     - North America:
+       - Basic: 348 (36.6%)
+       - Premium: 233 (24.5%)
+       - Standard: 370 (38.9%)
+       - Total: 951 subscriptions
+     - South America:
+       - Basic: 146 (79.8%)
+       - Premium: 33 (18.0%)
+       - Standard: 3 (2.2%)
+       - Total: 182 subscriptions
+  
+  2. Regional Highlights:
+     - Basic Subscriptions:
+       - Dominant in South America (79.8%) and significant in the EU (40.1%) and North America (36.6%).
+       - Least prominent in Australia (16.9%).
+     - Premium Subscriptions:
+       - Most prominent in Australia (55.2%) and holds a moderate share in the EU (30.9%).
+       - Lowest presence in South America (18.0%).
+     - Standard Subscriptions:
+       - Leading in North America (38.9%) and holds a moderate share in the EU (29.0%).
+       - Minimal in South America (2.2%).
+  
+  3. Insights from Pie Charts
+     - The pie charts confirm regional preferences:
+       - South America is heavily skewed towards Basic subscriptions, with negligible Standard users.
+       - Australia is Premium-focused, with Premium subscriptions constituting over half.
+       - North America and the EU show a more balanced distribution, with Basic and Standard competing closely.
+     - Standard subscriptions are negligible in South America and relatively low in Australia.
+  
+  4. Comparative Observations:
+     - Most Balanced Distribution: North America, where Basic and Standard are almost equal, and Premium lags slightly.
+     - Most Polarized Regions: South America (Basic-centric) and Australia (Premium-centric).
+  
+  Conclusion: 
+  The statistical analysis reveals distinct regional preferences for subscription types. In South America, Basic subscriptions dominate with 79.8%, while Standard subscriptions are insignificant at 2.2%. In contrast, Australia is heavily Premium-focused, with 55.2% of subscriptions in this category, and Basic subscriptions make up only 16.9%. The EU and North America show more balanced distributions, with the EU leaning more towards Basic subscriptions (40.1%) and North America having nearly equal shares of Basic (36.6%) and Standard (38.9%). Premium subscriptions are prominent in Australia and somewhat present in the EU but have less influence in North and South America. These patterns suggest cultural or economic factors influencing subscription preferences, with South America being the most Basic-centric and Australia the most Premium-focused, while the EU and North America display more varied choices. This data reveals significant variations in subscription preferences across regions, reflecting possible cultural or economic factors influencing user choices.
 
 
 
